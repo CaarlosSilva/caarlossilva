@@ -20,8 +20,8 @@ Estou sempre aberto a novos desafios, aprendizados e oportunidades de cresciment
 
 <img 
   align="left" 
-  alt="HTML"
-  title="HTML" 
+  alt="LUA"
+  title="LUA" 
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
@@ -29,8 +29,8 @@ Estou sempre aberto a novos desafios, aprendizados e oportunidades de cresciment
 
 <img 
   align="left" 
-  alt="HTML"
-  title="HTML" 
+  alt="C"
+  title="C" 
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -38,8 +38,8 @@ Estou sempre aberto a novos desafios, aprendizados e oportunidades de cresciment
 
 <img 
   align="left" 
-  alt="HTML"
-  title="HTML" 
+  alt="Git"
+  title="Git" 
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
@@ -47,8 +47,8 @@ Estou sempre aberto a novos desafios, aprendizados e oportunidades de cresciment
 
 <img 
   align="left" 
-  alt="HTML"
-  title="HTML" 
+  alt="Figma"
+  title="Figma" 
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
