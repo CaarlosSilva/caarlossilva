@@ -54,7 +54,7 @@ Estou sempre aberto a novos desafios, aprendizados e oportunidades de cresciment
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caarlossilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=caarlossilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
